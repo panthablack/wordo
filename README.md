@@ -1,8 +1,15 @@
 # Wordo
 
-A wordle clone that Lisa can play whenever she wants.
+A wordle clone that someone can play whenever they want.
 
 ## Project Setup
+
+### Prerequisites
+
+- Recent version of Node.js (currently `v20.12.2`)
+- Yarn (or just use `npm`)
+
+### Install Dependencies
 
 ```sh
 yarn
